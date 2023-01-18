@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Learning how to create my first repository with Henry
+Prueba de como crear un repositorio y replicarlo desde github a mi PC
